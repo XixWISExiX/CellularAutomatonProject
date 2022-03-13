@@ -1,4 +1,4 @@
-# Project 2: Not-So-Elementary Cellular Automata
+# Project 2: Not-So-Elementary Cellular Automaton (School Project)
 
 > The key to maximizing reuse lies in anticipating new requirements and changes to existing requirements...
 > To design a system so that it's robust to such changes, you must consider how the system might need to change over its lifetime.
