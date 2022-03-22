@@ -1,3 +1,7 @@
+# THIS IS A COLLEGE PROJECT AND NOT MY OWN, THIS IS HERE TO SHOW WHAT I WAS ABLE TO DO WHEN COMPLETING THIS PROJECT.
+# ORIGINAL OWNER IS THE UNIVERSITY OF OKLAHOMA CS 2334
+
+
 # Project 2: Not-So-Elementary Cellular Automaton (School Project)
 
 > The key to maximizing reuse lies in anticipating new requirements and changes to existing requirements...
